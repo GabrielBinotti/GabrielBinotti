@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Gabriel 👋
 
-<!--
-**GabrielBinotti/GabrielBinotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PHP developer.
 
-Here are some ideas to get you started:
+I am responsible for developing and monitoring the UniSys ERP for the company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work as a tutor professor at the University of São Francisco.
+
+Things I love:
+
+* Anime
+* Games
+* Movies
+* Series
+* Studying
+* Programming
+
+Technology:
+
+
+Linguage:
+
+<img src="https://github.com/GabrielBinotti/GabrielBinotti/assets/164275668/857951cd-5db4-4175-af22-318472f70d97" width="80px">
+<img src="https://github.com/GabrielBinotti/GabrielBinotti/assets/164275668/387e8ab2-5091-4f42-bdc1-fcef3f97f132" width="50px">
+<img src="https://github.com/GabrielBinotti/GabrielBinotti/assets/164275668/5da41742-6964-46e4-84f2-b9073facef11" width="50px">
+<img src="https://github.com/GabrielBinotti/GabrielBinotti/assets/164275668/1145cfac-891f-4138-a7ca-3bc90954bed3" width="50px">
