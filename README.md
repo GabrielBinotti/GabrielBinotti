@@ -1,8 +1,8 @@
 <h2>Hi, I'm Gabriel 👋</h2>
 
 <p>I am a PHP developer.</p>
-<p>I am responsible for developing and monitoring the UniSys ERP for the company.</p>
-<p>I work as a tutor professor at the University of São Francisco.</p>
+<p>I am responsible for developing and monitoring the UniSys ERP for the company Netwave Ltda.</p>
+<p>I work as a software Architect specialist at SCA.</p>
 
 Things I love:
 
